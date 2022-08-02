@@ -1,2 +1,2 @@
 # python-code
-small house python project
+python project
